@@ -2,14 +2,14 @@
 title: "A fully automated method for late ventricular diastole frame selection in post-dive echocardiography without ECG gating"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'In this work we demonstrate an ECG free segmentation method for echocardiograms.'
+date: 2021-03-01
 venue: 'Undersea and Hyperbaric Medicine'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/2021_Eric LVD automation.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

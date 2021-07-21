@@ -7,4 +7,4 @@ date: 2021-03-01
 venue: 'Undersea and Hyperbaric Medicine'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 paperurl: '[Download paper here](http://emarkley.github.io/files/paper6.pdf)'
-
+---

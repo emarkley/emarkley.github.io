@@ -463,6 +463,19 @@ a.reversefootnote {
   }
 }
 
+/*
+   Visibility
+   ========================================================================== */
+
+.zoom{
+  /* default button */
+
+  &:hover {
+    transform: scale(1.25);
+  }
+} 
+
+
 
 /*
    Required

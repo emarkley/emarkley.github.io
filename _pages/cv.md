@@ -11,21 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biomedical Engineering, University of North Carolina -- Chapel Hill, 2019
+* B.S. in Applied Mathematics, University of North Carolina -- Chapel Hill, 2019
+* Ph.D in Bioengineering, University of California -- Berkeley, in progress
 
-Work experience
+Internships
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2019: Biomedical Engineering Intern
+  * University of North Carolina -- Chapel Hill
+  * Designing and constructing an iPhone controlled vibratory stimulus for osteoarthritis prevention
+  * Supervisor: Dr. Richard Goldberg
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013-2015: Pennsylvania Youth Apprenticeship Program
+  * Penn State Hershey Medical Center
+  * Shadowed doctors and nurse in several modalities with emphasis on pediatrics and endovascular neurosurgery
+  * Supervisor: Mrs. Renee McMinn
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
@@ -46,12 +52,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership

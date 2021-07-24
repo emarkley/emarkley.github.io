@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Teaching"
+permalink: /teaching/
 ---
 
 I believe that teachers are one of the most influential subsets of our population.  They have the ability to either foster one's early love for a subject or create resentment towards a subject.  (Almost everyone has had a bad teacher that has soured a subject for them).  Throughout my educational journey I have been lucky enough to have many incredible teachers that have both fostered my passions and encouraged me to pursue them.  Undoubtably without these positive influences from high school and onward, I would not be on the path that I am now and I condsider these teacher some of the most influential people in my life.  For this reason I hope to provide at least one student with the same experience that I was lucky enough to have.

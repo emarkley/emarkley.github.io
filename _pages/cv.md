@@ -47,7 +47,7 @@ redirect_from:
 * NSF GRFP Fellow (2019)
 * Abrams Scholar (2018)
 * Biomedical Engineering Undergraduate Researcher of the Month (2018)
-* * Phi Beta Kappa Honor Society Member (2018)
+* Phi Beta Kappa Honor Society Member (2018)
 * Alpha Phi Omega Service Fraternity Treasurer (2017)
 * UNC Club Climbing Treasurer (2016-2019)
 * BME i4 Competition First Round Funding Awarded (2015,2016,2017)

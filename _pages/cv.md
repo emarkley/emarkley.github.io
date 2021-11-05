@@ -17,7 +17,7 @@ redirect_from:
 ## Research
 * 2019-Present: Graduate Student Researcher
   * University of California -- Berkeley
-  * Research onnd-to-end design of computational imaging systems
+  * Research on end-to-end design of computational imaging systems
   * PI: Dr. Laura Waller
 * 2018-2019: Undergraduate Student Researcher
   * University of North Carolina -- Chapel Hill

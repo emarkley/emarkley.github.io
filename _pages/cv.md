@@ -14,6 +14,16 @@ redirect_from:
 * B.S. in Applied Mathematics, University of North Carolina -- Chapel Hill, 2019
 * Ph.D in Bioengineering, University of California -- Berkeley, in progress
 
+## Research
+* 2019-Present: Graduate Student Researcher
+  * University of California -- Berkeley
+  * Research onnd-to-end design of computational imaging systems
+  * PI: Dr. Laura Waller
+* 2018-2019: Undergraduate Student Researcher
+  * University of North Carolina -- Chapel Hill
+  * Ultrasound image processing and analysis research
+  * PI: Dr. Paul Dayton
+
 ## Internships
 * 2018-2019: Biomedical Engineering Intern
   * University of North Carolina -- Chapel Hill
